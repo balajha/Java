@@ -17,6 +17,7 @@ public class Areacircle {
            float perimeter = 2 * 3.14f * num;
         System.out.print("Area Of A Circle ");
         System.out.println(radius);
+        System.out.println("Java test");
 
         System.out.print("Perimeter Of A Circle ");
         System.out.println(perimeter);
